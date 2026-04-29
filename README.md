@@ -3,7 +3,7 @@
 Run:
 
 ```bash
-python3 supplement/finite_checks.py
+python3 src/finite_checks.py
 ```
 
 Expected outputs:
